@@ -1,0 +1,24 @@
+# Variáveis de ambiente (NUNCA commitar o .env real)
+.env
+
+# Banco de dados SQLite gerado
+data/
+
+# PDFs baixados
+pdfs/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
